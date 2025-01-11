@@ -1,4 +1,4 @@
-# 👋 Full Stack Developer
+# 👋 Hi, I'm Ravinder Reddy Kothabad
 
 
 ## 👨‍💻 About Me
@@ -10,6 +10,7 @@ Full Stack Developer with 6+ years of experience, specializing in Java Spring Bo
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
@@ -38,7 +39,8 @@ Full Stack Developer with 6+ years of experience, specializing in Java Spring Bo
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonwebservices&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-4A90E2?style=flat&logo=github-actions&logoColor=white)
 
 ## 🎯 Core Competencies
 

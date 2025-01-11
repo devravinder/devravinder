@@ -1,5 +1,10 @@
 # 👋 Full Stack Developer
 
+
+## 👨‍💻 About Me
+Full Stack Developer with 6+ years of experience, specializing in Java Spring Boot, Node.js, and React applications. Passionate about building scalable web applications and creating seamless user experiences.
+
+
 ## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
@@ -34,8 +39,6 @@
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-## 👨‍💻 About Me
-Full Stack Developer specializing in Java Spring Boot, Node.js, and React applications. Passionate about building scalable web applications and creating seamless user experiences.
 
 ## 🎯 Core Competencies
 
@@ -65,32 +68,27 @@ Full Stack Developer specializing in Java Spring Boot, Node.js, and React applic
 - AWS cloud services
 - Agile methodologies
 
-## 🚀 Projects
+## 🚀 [Projects](https://projects.paravartech.com/)
 
-### E-Commerce Platform
+### Insta-Cred Loan App
 - Full-stack application using Spring Boot and React
 - Microservices architecture
 - RESTful API implementation
-- Secure payment integration
-- Real-time inventory management
+- Secure payment integration ( Yet to add )
+- Rabbit MQ, Redis
+- Observability ( Prometheus, Grafana, Loki, Tempo )
+- Docker & Kubernetes
 
-### 💬 Chat Application
-- Real-time messaging using Node.js and Socket.io
-- React frontend with Redux
-- User authentication
-- Message encryption
-- File sharing capabilities
+### 📊 Project Dashboard
+- To See all my github projects
+- React-Ts
+- To search and filter repositories
+- [Website](https://projects.paravartech.com/)
 
-### 📊 Analytics Dashboard
-- Data visualization using React
-- Spring Boot backend services
-- Real-time data processing
-- Interactive charts and graphs
-- Export functionality
 
 ## 📫 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravinder-reddy-kothabad-333719192/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://paravartech.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F05032?style=flat)](https://paravartech.com/)
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devravinder&show_icons=true&theme=algolia)
